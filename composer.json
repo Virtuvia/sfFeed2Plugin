@@ -1,0 +1,14 @@
+{
+    "name": "virtuvia/sf-feed2-plugin",
+    "type": "symfony1-plugin",
+    "description": "The sfFeed2Plugin offers an object interface for feeds and feed items, feed input methods using a web feed or an array of objects as source, and feed output methods for displaying items on a page and serving feeds through a symfony application.",
+    "authors": [
+        {
+            "name": "Kris Wallsmith",
+            "email": "kris.wallsmith@symfony-project.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
